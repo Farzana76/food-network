@@ -1,0 +1,37 @@
+body{
+    font-family: 'Mukta Vaani', sans-serif;
+}
+section{
+    display: flex;
+    padding-left: 40px;
+}
+h1{
+    font-size: 55px;
+    color: rgb(102, 100, 100);
+    margin-bottom: 30px;
+    line-height: 80px;
+}
+p{
+    font-size: 20px;
+    color: rgb(150, 146, 146);
+    margin-bottom: 50px;
+}
+.orange{
+    color: rgb(252, 157, 41);
+}
+.half-width{
+    width: 50%;
+    padding: 40px;
+}
+a{
+    text-decoration: none;
+    font-weight: 700;
+    color: white;
+    background-image: linear-gradient(to right, rgb(248, 123, 39), rgb(252, 81, 50));
+    padding: 10px 30px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 30px tomato;
+}
+.top-down{
+    margin-top: 130px;
+}
