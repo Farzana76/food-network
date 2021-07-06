@@ -75,3 +75,19 @@ h2{
 h3{
     font-size: 30px;
 }
+footer{
+    background: rgb(19, 19, 19);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 50px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
+h4{
+    font-size: 25px;
+    color: rgb(102, 100, 100);;
+}
+h5{
+    color: white;
+}
