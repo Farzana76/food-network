@@ -35,3 +35,15 @@ a{
 .top-down{
     margin-top: 130px;
 }
+.bg-image{
+    background-image: url(images/shapes/7.png);
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-left: 170px;
+    padding-right: 100px;
+}
+h2{
+    font-size: 40px;
+    color: rgb(102, 100, 100);
+
+}
