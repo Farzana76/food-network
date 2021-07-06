@@ -1,6 +1,22 @@
 body{
     font-family: 'Mukta Vaani', sans-serif;
 }
+.bg-orange{
+    background-image: linear-gradient(to right, rgb(248, 136, 61), rgb(247, 97, 71));
+    height: 106px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
+.bg-orange h3{
+    margin-top: -10px;
+    color: white;
+    margin-left: -550px;
+}
+.bg-orange img{
+    margin-top: -30px;
+    border-radius: 10px;
+}
 .flex-display{
     display: flex;
     padding-left: 40px;
@@ -33,7 +49,7 @@ a{
     box-shadow: 5px 5px 30px tomato;
 }
 .top-down{
-    margin-top: 130px;
+    margin-top: 20px;
 }
 .bg-image{
     background-image: url(images/shapes/7.png);
@@ -80,7 +96,7 @@ footer{
     background: rgb(19, 19, 19);
     text-align: center;
     padding-top: 5px;
-    padding-bottom: 50px;
+    padding-bottom: 40px;
     margin-left: -8px;
     margin-right: -8px;
     margin-bottom: -8px;
