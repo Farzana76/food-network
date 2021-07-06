@@ -37,6 +37,7 @@ a{
 }
 .bg-image{
     background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
     margin-left: -8px;
     margin-right: -8px;
     padding-left: 170px;
@@ -90,4 +91,33 @@ h4{
 }
 h5{
     color: white;
+}
+.healthy-foods{
+    background-image: url(images/food/healthy.jpg);
+    background-repeat: no-repeat;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 20px;
+    margin-bottom: 40px;
+
+}
+.healthy-flex-display{
+    display: flex;
+    
+}
+.healthy-section{
+    background: white;
+    opacity: .8;
+    margin: 40px;
+    margin-bottom: -20px;
+    border-radius: 20px;
+}
+.healthy-section h3{
+    font-size: 25px;
+    margin-top: -20px;
+}
+.healthy-section p{
+    font-size: 16px;
+    color: black;
+    margin-bottom: -20px;
 }
