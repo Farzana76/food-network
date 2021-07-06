@@ -1,7 +1,7 @@
 body{
     font-family: 'Mukta Vaani', sans-serif;
 }
-section{
+.flex-display{
     display: flex;
     padding-left: 40px;
 }
@@ -46,4 +46,32 @@ h2{
     font-size: 40px;
     color: rgb(102, 100, 100);
 
+}
+.image-flex{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-top: -40px;
+}
+.onethird-width{
+    width: 30%;
+    box-shadow: 10px 10px 30px rgb(202, 198, 198);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+}
+.onethird-width img{
+    width: 100%;
+    
+}
+
+#text-center{
+    margin-top: 60px;
+    text-align: center;
+}
+#text-center p{
+    margin-top: -20px;
+}
+h3{
+    font-size: 30px;
 }
